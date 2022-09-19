@@ -15,9 +15,11 @@ Environments used: Voyant Tools, Juypter Notebooks, ObservableHQ.
 Compiling a corpus
 Web scraping
 Pre-processing a corpus (cleaning, format conversion, etc.) 
-    Text processing, tokenization, determining word frequency 
-    Distribution of terms, working with concordances, collocates and correlations
-    document similarity
+    Text processing, tokenization, determining word frequency, using stoplists
+    Distribution of terms, building concordances, analyzing collocates and correlations
+    Visualization using graphs, word clouds, lexical dispersion plots,  etc.
+    Document similarity, identification of authors based on use of language
+    Normalization of terms using stemming, lemmatization 
     topic modelling
     sentiment analysis
     parts-of-speech
@@ -25,7 +27,6 @@ Pre-processing a corpus (cleaning, format conversion, etc.)
     semantic analysis
     
     distribution/collocates/correlations/stoplists
-(tokenization, visualization with graphs, word clouds, etc.)
 
 ## Main project: Text Mining Female Masculinity in Sixteenth and Seventeenth-Century Britain
 See **Text Mining Female Masculinity in Early Modern Britain.ipynb**, and associated appendixes: **Appendix A - Corpus Summary & Ordering the Corpus.ipynb** and **Appendix B - Corpus Normalization.ipynb**. 
