@@ -1,6 +1,6 @@
 # Work for McGill's "LLCU 612: Literary Text Mining" graduate seminar
 Using Python, Matplotlib, HTML, CSS, Regular Expressions
-Libraries: Beautiful Soup, urllib.request, Natural Language Toolkit (NLTK) 
+Libraries: Natural Language Toolkit (NLTK), NumPy, Beautiful Soup, urllib.request, scikit,
 Text editor: Atom
 Environments used: Voyant Tools, Juypter Notebooks, ObservableHQ.
 
@@ -21,13 +21,14 @@ Pre-processing a corpus (cleaning, format conversion, etc.)
     Document similarity, identification of authors based on use of language
     Normalization of terms using stemming, lemmatization 
     Transforming and mapping words in a text -  Search and count words with lexical transformations (i.e. case changes, stemming, lemmatization), word sense lookups with WordNet, resursive searching for hyponyms (words with more specific meanings) from synset returned using WordNet - tagging parts of speech using NLTK - 
-Examining Frequencies and Distribution for a Specific Part of Speech
+Examining Frequencies and Distribution for a Specific Part of Speech - concept of part-of-speech tagging as an additional way of processing texts. 
 
-
-  
+    Ngrams/repeating text
+    
+  A common task when working with a larger corpus is to try to determine how documents relate to one another – how similar or different they are, or how they might cluster together - using sentence length, document term matrix, TF-IDF scores/values - term frequency * inverse document frequency - cosine similarity - visualizing document clusters with multidimensional scaling & dendrograms
     
     topic modelling
-    sentiment analysis
+    sentiment analysis based on training sets, word lists, and WordNet
     parts-of-speech
     named entity recognition
     semantic analysis
