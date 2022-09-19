@@ -1,6 +1,6 @@
 # Work for McGill's "LLCU 612: Literary Text Mining" graduate seminar
 Using Python, Matplotlib, HTML, CSS, Regular Expressions
-Libraries: Beautiful Soup
+Libraries: Beautiful Soup, urllib.request, Natural Language Toolkit (NLTK) 
 Text editor: Atom
 Environments used: Voyant Tools, Juypter Notebooks, ObservableHQ.
 
@@ -12,20 +12,20 @@ Environments used: Voyant Tools, Juypter Notebooks, ObservableHQ.
     describe and demonstrate the value and limitations of digital methodologies
     have some expertise and experience in learning new technical skills, especially using web resources
 
-compiling a corpus
+Compiling a corpus
 Web scraping
-Pre-processing a corpus (cleaning, format conversion, 
-
-    
-    frequency
-    distribution
+Pre-processing a corpus (cleaning, format conversion, etc.) 
+    Text processing, tokenization, determining word frequency 
+    Distribution of terms, working with concordances, collocates and correlations
     document similarity
     topic modelling
     sentiment analysis
     parts-of-speech
     named entity recognition
     semantic analysis
-
+    
+    distribution/collocates/correlations/stoplists
+(tokenization, visualization with graphs, word clouds, etc.)
 
 ## Main project: Text Mining Female Masculinity in Sixteenth and Seventeenth-Century Britain
 See **Text Mining Female Masculinity in Early Modern Britain.ipynb**, and associated appendixes: **Appendix A - Corpus Summary & Ordering the Corpus.ipynb** and **Appendix B - Corpus Normalization.ipynb**. 
