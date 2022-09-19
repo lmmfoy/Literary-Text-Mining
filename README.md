@@ -17,9 +17,15 @@ Web scraping
 Pre-processing a corpus (cleaning, format conversion, etc.) 
     Text processing, tokenization, determining word frequency, using stoplists
     Distribution of terms, building concordances, analyzing collocates and correlations
-    Visualization using graphs, word clouds, lexical dispersion plots,  etc.
+    Visualization using graphs, word clouds, lexical dispersion plots, etc.
     Document similarity, identification of authors based on use of language
     Normalization of terms using stemming, lemmatization 
+    Transforming and mapping words in a text -  Search and count words with lexical transformations (i.e. case changes, stemming, lemmatization), word sense lookups with WordNet, resursive searching for hyponyms (words with more specific meanings) from synset returned using WordNet - tagging parts of speech using NLTK - 
+Examining Frequencies and Distribution for a Specific Part of Speech
+
+
+  
+    
     topic modelling
     sentiment analysis
     parts-of-speech
