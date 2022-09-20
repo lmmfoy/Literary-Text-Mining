@@ -1,35 +1,33 @@
 # Work for McGill's "LLCU 612: Literary Text Mining" graduate seminar
 
+In this class we learned to compile and prepare for analysis a variety of types of digital texts, use text analysis and statistical software to study them, and produce visualizations from analytic and statistical data. We learned to think algorithmically about digital texts, navigate between close and distant reading practices, and explored different digital methodologies. 
 
- * Languages: Python, HTML, CSS
+##### Tools used: #####
+ * Languages used: Python, HTML, CSS
  * Libraries: Natural Language Toolkit (NLTK), NumPy, Matplotlib, Beautiful Soup, urllib.request, scikit, Gensim
  * Environments: Voyant Tools, Juypter Notebooks, ObservableHQ
     
-  In this class we learned to compile and prepare for analysis a variety of types of digital texts, use text analysis and statistical software to study them, and produce visualizations from analytic and statistical data. We learned to think algorithmically about digital texts, navigate between close and distant reading practices, and explored different digital methodologies. 
+
   
 Some of the skills learned:
 
-Compiling a corpus
-Web scraping
-Pre-processing a corpus (cleaning, format conversion, etc.) 
-    Text processing, tokenization, determining word frequency, using stoplists
-    Distribution of terms, building concordances, analyzing collocates and correlations
-    Visualization using graphs, word clouds, lexical dispersion plots, etc.
-    Document similarity, identification of authors based on use of language
-    Normalization of terms using stemming, lemmatization 
+* Web scraping
+* Compiling and corpus pre-processing a corpus (cleaning, format conversion, etc.) 
+* Working with texts (text processing, tokenization, determining word frequency, using stoplists, normalization of terms using stemming and lemmatization)
+* Working with results (Distribution of terms, building concordances, analyzing collocates and correlations)
+* Visualization using graphs, word clouds, lexical dispersion plots, etc.
+* Topic modelling
+* Sentiment analysis 
+* Parts-of-speech tagging, named entity recognition, and semantic analysis
+* Document similarity, identification of authors based on use of language
+*  
     Transforming and mapping words in a text -  Search and count words with lexical transformations (i.e. case changes, stemming, lemmatization), word sense lookups with WordNet, resursive searching for hyponyms (words with more specific meanings) from synset returned using WordNet - tagging parts of speech using NLTK - 
 Examining Frequencies and Distribution for a Specific Part of Speech - concept of part-of-speech tagging as an additional way of processing texts. 
 
     Ngrams/repeating text
     
   A common task when working with a larger corpus is to try to determine how documents relate to one another – how similar or different they are, or how they might cluster together - using sentence length, document term matrix, TF-IDF scores/values - term frequency * inverse document frequency - cosine similarity - visualizing document clusters with multidimensional scaling & dendrograms
-    
-    topic modelling
-    sentiment analysis based on training sets, word lists, and WordNet
-    parts-of-speech
-    named entity recognition
-    semantic analysis
-    
+
     distribution/collocates/correlations/stoplists
     network graphing
 
