@@ -1,17 +1,13 @@
 # Work for McGill's "LLCU 612: Literary Text Mining" graduate seminar
 
 
-    * Languages: Python, HTML, CSS
-    * Libraries: Natural Language Toolkit (NLTK), NumPy, Matplotlib, Beautiful Soup, urllib.request, scikit, Gensim
-    * Environments: Voyant Tools, Juypter Notebooks, ObservableHQ
-   
-    compile and prepare for analysis a variety of types of digital texts
-    use text analysis and statistical software to study digital texts
-    produce visualizations from analytic and statistical data
-    think algorithmically about digital texts
-    navigate between close and distant reading practices
-    describe and demonstrate the value and limitations of digital methodologies
-    have some expertise and experience in learning new technical skills, especially using web resources
+ * Languages: Python, HTML, CSS
+ * Libraries: Natural Language Toolkit (NLTK), NumPy, Matplotlib, Beautiful Soup, urllib.request, scikit, Gensim
+ * Environments: Voyant Tools, Juypter Notebooks, ObservableHQ
+    
+  In this class we learned to compile and prepare for analysis a variety of types of digital texts, use text analysis and statistical software to study them, and produce visualizations from analytic and statistical data. We learned to think algorithmically about digital texts, navigate between close and distant reading practices, and explored different digital methodologies. 
+  
+Some of the skills learned:
 
 Compiling a corpus
 Web scraping
