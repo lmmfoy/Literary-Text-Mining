@@ -7,29 +7,19 @@ In this class we learned to compile and prepare for analysis a variety of types 
  * Libraries: Natural Language Toolkit (NLTK), NumPy, Matplotlib, Beautiful Soup, urllib.request, scikit, Gensim
  * Environments: Voyant Tools, Juypter Notebooks, ObservableHQ
     
-
-  
-Some of the skills learned:
+##### Skills learned: #####
 
 * Web scraping
 * Compiling and corpus pre-processing a corpus (cleaning, format conversion, etc.) 
 * Working with texts (text processing, tokenization, determining word frequency, using stoplists, normalization of terms using stemming and lemmatization)
-* Working with results (Distribution of terms, building concordances, analyzing collocates and correlations)
-* Visualization using graphs, word clouds, lexical dispersion plots, etc.
+* Working with results (Distribution of terms, building concordances, analyzing collocates and correlations, finding Ngrams)
+* Visualization using graphs, lexical dispersion plots, multidimensional scaling, dendrograms, word clouds, network graphing, etc.
 * Topic modelling
 * Sentiment analysis 
 * Parts-of-speech tagging, named entity recognition, and semantic analysis
-* Document similarity, identification of authors based on use of language
-*  
-    Transforming and mapping words in a text -  Search and count words with lexical transformations (i.e. case changes, stemming, lemmatization), word sense lookups with WordNet, resursive searching for hyponyms (words with more specific meanings) from synset returned using WordNet - tagging parts of speech using NLTK - 
-Examining Frequencies and Distribution for a Specific Part of Speech - concept of part-of-speech tagging as an additional way of processing texts. 
-
-    Ngrams/repeating text
-    
-  A common task when working with a larger corpus is to try to determine how documents relate to one another – how similar or different they are, or how they might cluster together - using sentence length, document term matrix, TF-IDF scores/values - term frequency * inverse document frequency - cosine similarity - visualizing document clusters with multidimensional scaling & dendrograms
-
-    distribution/collocates/correlations/stoplists
-    network graphing
+* Document similarity, identification of authors based on use of language (using sentence length, document term matrix, TF-IDF values, cosine similarity)
+* Mapping words in a text (word sense lookups, recursive searching for hyponyms, etc.)
+  
 
 ## Main project: Text Mining Female Masculinity in Sixteenth and Seventeenth-Century Britain
 See **Text Mining Female Masculinity in Early Modern Britain.ipynb**, and associated appendixes: **Appendix A - Corpus Summary & Ordering the Corpus.ipynb** and **Appendix B - Corpus Normalization.ipynb**. 
