@@ -3,7 +3,7 @@
 In this class we learned to compile and prepare for analysis a variety of types of digital texts, use text analysis and statistical software to study them, and produce visualizations from analytic and statistical data. We learned to think algorithmically about digital texts, navigate between close and distant reading practices, and explored different digital methodologies. 
 
 ##### Tools used: #####
- * Languages used: Python, HTML, CSS
+ * Languages: Python, HTML, CSS
  * Libraries: Natural Language Toolkit (NLTK), NumPy, Matplotlib, Beautiful Soup, urllib.request, scikit, Gensim
  * Environments: Voyant Tools, Juypter Notebooks, ObservableHQ
     
