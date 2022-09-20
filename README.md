@@ -1,19 +1,20 @@
 # Work for McGill's "LLCU 612: Literary Text Mining" graduate seminar
 
-In this class we learned to compile and prepare for analysis a variety of types of digital texts, use text analysis and statistical software to study them, and produce visualizations from analytic and statistical data. We learned to think algorithmically about digital texts, navigate between close and distant reading practices, and explored different digital methodologies. 
+In this class we learned to compile and prepare a variety of types of digital texts, use text analysis and statistical software to study them, and produce visualizations from analytic and statistical data. We learned to think algorithmically about digital texts, navigate between close and distant reading practices, and explored different digital methodologies. 
 
 ##### Tools used: #####
  * Languages: Python, HTML, CSS
  * Libraries: Natural Language Toolkit (NLTK), NumPy, Matplotlib, Beautiful Soup, urllib.request, scikit, Gensim
  * Environments: Voyant Tools, Juypter Notebooks, ObservableHQ
+ * Other: Regular expressions, Atom
     
 ##### Skills learned: #####
 
 * Web scraping
-* Compiling and corpus pre-processing a corpus (cleaning, format conversion, etc.) 
+* Compiling and pre-processing a corpus (cleaning, format conversion, etc.) 
 * Working with texts (text processing, tokenization, determining word frequency, using stoplists, normalization of terms using stemming and lemmatization)
 * Working with results (Distribution of terms, building concordances, analyzing collocates and correlations, finding Ngrams)
-* Visualization using graphs, lexical dispersion plots, multidimensional scaling, dendrograms, word clouds, network graphing, etc.
+* Visualization using cartesian graphs, lexical dispersion plots, multidimensional scaling, dendrograms, word clouds, network graphing, etc.
 * Topic modelling
 * Sentiment analysis 
 * Parts-of-speech tagging, named entity recognition, and semantic analysis
