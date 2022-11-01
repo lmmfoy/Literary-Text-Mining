@@ -25,8 +25,8 @@ In this project I explored gender fluidity in sixteenth and seventeenth-century 
     
 ##### Skills learned: #####
 
-* Web scraping
 * Compiling and pre-processing a corpus (cleaning, format conversion, etc.) 
+* Web scraping
 * Working with texts (text processing, tokenization, determining word frequency, using stoplists, normalization of terms using stemming and lemmatization)
 * Working with results (Distribution of terms, building concordances, analyzing collocates and correlations, finding Ngrams)
 * Visualization using cartesian graphs, lexical dispersion plots, multidimensional scaling, dendrograms, word clouds, network graphing, etc.
