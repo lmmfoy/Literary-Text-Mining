@@ -2,6 +2,19 @@
 
 In this class we learned to compile and prepare a variety of types of digital texts, use text analysis and statistical software to study them, and produce visualizations from analytic and statistical data. We learned to think algorithmically about digital texts, navigate between close and distant reading practices, and explored different digital methodologies. 
 
+##### Skills learned: #####
+
+* Compiling and pre-processing a corpus (cleaning, format conversion, etc.) 
+* Web scraping
+* Working with texts (text processing, tokenization, determining word frequency, using stoplists, normalization of terms using stemming and lemmatization)
+* Working with results (Distribution of terms, building concordances, analyzing collocates and correlations, finding Ngrams)
+* Visualization using cartesian graphs, lexical dispersion plots, multidimensional scaling, dendrograms, word clouds, network graphing, etc.
+* Topic modelling
+* Sentiment analysis 
+* Parts-of-speech tagging, named entity recognition, and semantic analysis
+* Document similarity, identification of authors based on use of language (using sentence length, document term matrix, TF-IDF values, cosine similarity)
+* Mapping words in a text (word sense lookups, recursive searching for hyponyms, etc.)
+  
 ## Main project: Text Mining Female Masculinity in Sixteenth and Seventeenth-Century Britain
 *** See **Text Mining Female Masculinity in Early Modern Britain.ipynb**, and associated appendixes: **Appendix A - Corpus Summary & Ordering the Corpus.ipynb** and **Appendix B - Corpus Normalization.ipynb**. ***
 
@@ -23,19 +36,7 @@ In this project I explored gender fluidity in sixteenth and seventeenth-century 
  * Environments: Voyant Tools, Juypter Notebooks, ObservableHQ
  * Other: Regular expressions, Atom
     
-##### Skills learned: #####
 
-* Compiling and pre-processing a corpus (cleaning, format conversion, etc.) 
-* Web scraping
-* Working with texts (text processing, tokenization, determining word frequency, using stoplists, normalization of terms using stemming and lemmatization)
-* Working with results (Distribution of terms, building concordances, analyzing collocates and correlations, finding Ngrams)
-* Visualization using cartesian graphs, lexical dispersion plots, multidimensional scaling, dendrograms, word clouds, network graphing, etc.
-* Topic modelling
-* Sentiment analysis 
-* Parts-of-speech tagging, named entity recognition, and semantic analysis
-* Document similarity, identification of authors based on use of language (using sentence length, document term matrix, TF-IDF values, cosine similarity)
-* Mapping words in a text (word sense lookups, recursive searching for hyponyms, etc.)
-  
 
 
 
